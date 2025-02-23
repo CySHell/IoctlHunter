@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/json-c.dir/embed.manifest"

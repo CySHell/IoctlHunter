@@ -1,0 +1,12 @@
+prefix=C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/pkgs/json-c_x64-windows/debug
+exec_prefix=C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/pkgs/json-c_x64-windows/debug
+libdir=C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/pkgs/json-c_x64-windows/debug/lib
+includedir=C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/pkgs/json-c_x64-windows/debug/include
+
+Name: json-c
+Description: A JSON implementation in C
+Version: 0.17
+Requires:
+Libs.private: 
+Libs: -L${libdir} -ljson-c
+Cflags: -I${includedir} -I${includedir}/json-c

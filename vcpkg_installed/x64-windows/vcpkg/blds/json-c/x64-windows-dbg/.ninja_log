@@ -1,0 +1,18 @@
+# ninja log v6
+50	428	7599462479621757	CMakeFiles/json-c.dir/json_c_version.c.obj	962c59edf8b80a10
+22	535	7599462479308639	CMakeFiles/json-c.dir/arraylist.c.obj	2c43fdfdf012e32d
+35	573	7599462479486028	CMakeFiles/json-c.dir/debug.c.obj	3c4b93ca68f06df0
+135	827	7599462480436562	CMakeFiles/json-c.dir/json_visit.c.obj	7fb29bfd6d3af8b4
+106	923	7599462480154814	CMakeFiles/json-c.dir/json_tokener.c.obj	6e503c00d67a89ed
+73	946	7599462479815233	CMakeFiles/json-c.dir/json_object.c.obj	acf75aedc5fa754
+120	960	7599462480285653	CMakeFiles/json-c.dir/json_util.c.obj	7cd94967de6c7101
+151	1024	7599462480594357	CMakeFiles/json-c.dir/linkhash.c.obj	ef47b27ac00bec38
+432	1028	7599462483408693	CMakeFiles/json-c.dir/printbuf.c.obj	fc00dea7bc4be9b0
+91	1119	7599462480005160	CMakeFiles/json-c.dir/json_object_iterator.c.obj	47109a0115f4acfe
+924	1202	7599462488337075	CMakeFiles/json-c.dir/json_patch.c.obj	e0a7bb7640d7034d
+576	1220	7599462484849073	CMakeFiles/json-c.dir/strerror_override.c.obj	c960fab089309d6
+832	1340	7599462487408365	CMakeFiles/json-c.dir/json_pointer.c.obj	567d49374a13293
+536	1615	7599462484450383	CMakeFiles/json-c.dir/random_seed.c.obj	1c7cb802709aef46
+1615	2419	7599462502663138	json-c.dll	7f9121a347c26937
+1615	2419	7599462502663138	json-c.lib	7f9121a347c26937
+2420	3107	7599462503293966	CMakeFiles/install.util	c4907564f706b9f8

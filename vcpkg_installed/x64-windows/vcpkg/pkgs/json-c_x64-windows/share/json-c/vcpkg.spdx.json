@@ -1,0 +1,154 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/json-c-x64-windows-2023-08-12-0a6e910d-ed05-469f-9536-c8cfe29338a8",
+  "name": "json-c:x64-windows@2023-08-12 01cbd2193c2ae2a87152dbf3e0613360b319cc1f5392521122870d4b841d07cf",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-2024-09-30-ab8988503c7cffabfd440b243a383c0a352a023d"
+    ],
+    "created": "2025-01-30T13:17:38Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-2"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-3"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-2",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-3",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "json-c",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "2023-08-12",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@dcfc2cbe17b88101d8e40f6eb6141b77caff68e9",
+      "homepage": "https://github.com/json-c/json-c",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "A JSON implementation in C",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "json-c:x64-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "01cbd2193c2ae2a87152dbf3e0613360b319cc1f5392521122870d4b841d07cf",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "json-c/json-c",
+      "downloadLocation": "git+https://github.com/json-c/json-c@b4c371fa0cbc4dcbaccc359ce9e957a22988fb34",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "1338271a6f9ffb3b8a8d4f2ec36a374ed84b3c91f789b607693c08cbeb38c4fdd813593f530ff94e841a095ff367a3ae8c5f5e7dbcb64e8f9044f6affdf24505"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/AmirShen/AppData/Local/vcpkg/registries/git-trees/dcfc2cbe17b88101d8e40f6eb6141b77caff68e9/fix-clang-cl.patch",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f29cd30c067665f7dbc2240c04d44d1a3299862e2c5653d46cfb76067b485f1a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/AmirShen/AppData/Local/vcpkg/registries/git-trees/dcfc2cbe17b88101d8e40f6eb6141b77caff68e9/pkgconfig.patch",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b35bfbb24995274fa4b1e29b0d5ec78faa254309972edd08352683a253580cb0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/AmirShen/AppData/Local/vcpkg/registries/git-trees/dcfc2cbe17b88101d8e40f6eb6141b77caff68e9/portfile.cmake",
+      "SPDXID": "SPDXRef-file-2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75154ad0c6aaa8de89d7bee695df5011dd02294fdee440e8ecd9f29efa889639"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/AmirShen/AppData/Local/vcpkg/registries/git-trees/dcfc2cbe17b88101d8e40f6eb6141b77caff68e9/vcpkg.json",
+      "SPDXID": "SPDXRef-file-3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c30c1fe528cb6c0c0876eb7025c66ad0012594da1c97384bf931f1928e898852"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

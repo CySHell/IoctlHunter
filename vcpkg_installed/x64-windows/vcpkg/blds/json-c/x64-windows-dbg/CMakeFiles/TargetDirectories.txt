@@ -1,0 +1,16 @@
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/distcheck.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/json-c.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/package.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/package_source.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/edit_cache.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/list_install_components.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/install.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/CMakeFiles/install/local.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/doc/CMakeFiles/package.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/doc/CMakeFiles/package_source.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/doc/CMakeFiles/edit_cache.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/doc/CMakeFiles/rebuild_cache.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/doc/CMakeFiles/list_install_components.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/doc/CMakeFiles/install.dir
+C:/Users/AmirShen/source/repos/WindbgExtensionTest/vcpkg_installed/x64-windows/vcpkg/blds/json-c/x64-windows-dbg/doc/CMakeFiles/install/local.dir
